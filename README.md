@@ -68,14 +68,6 @@ Features:
 
 ---
 
-## 🚀 Live Demo
-
-👉 [View Live App](https://your-streamlit-link.streamlit.app)
-
-*(Replace with your deployed Streamlit link)*
-
----
-
 ## 📁 Project Structure
 battery-soh-dashboard/
 │
